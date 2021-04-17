@@ -1,3 +1,3 @@
-# Proyecto APIs - NODE JS TuHabitat
+# Proyecto TuHabitat APIs
 
-- TuHabitat API [Link] (https://github.com/Tiwar02/TuHabitat-Backend.git)
+> Este proyecto esta basado en nodejs
